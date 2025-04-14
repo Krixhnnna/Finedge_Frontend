@@ -499,7 +499,7 @@ export default function Home() {
           {/* Copyright */}
           <div className="border-t border-white/10 pt-6 flex flex-col md:flex-row justify-between items-center">
             <p className="text-sm text-gray-400 mb-4 md:mb-0">
-              © {new Date().getFullYear()} FinEdge. All rights reserved. Made with ❤️ by Krishna
+              © {new Date().getFullYear()} FinEdge. All rights reserved. Made by @Krishna
             </p>
             <div className="flex space-x-6">
               <Link className="text-sm text-gray-400 hover:text-cyan-400 transition-colors" href="#">
